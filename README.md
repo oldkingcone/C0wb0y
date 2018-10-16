@@ -65,7 +65,7 @@ you only have to enter the username of the user and the name of the file and typ
 
 nltk       <-------requires 'punkt' NLTK  libary 
 (open interpreter ) 
-To install the needed templates for dialectical analysis, from inside of a python shell, run these commands:
+To install the needed templates for dialectal analysis, from inside of a python shell, run these commands:
 
 - ```import nltk```
 
