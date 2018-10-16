@@ -39,7 +39,9 @@ This is still very much in development, some of the sentiment models are not com
 ### Roadmap:
 
 
-change all the models over to the same api
+change all the models over to the same api,
+incorporate all models into the main script.
+
 
 ---
 
