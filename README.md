@@ -40,28 +40,15 @@ you only have to enter the username of the user and the name of the file and typ
 
 
 install:
+pip install -r requirements.txt
 
-this requires the following python packages
-matplotlib==1.4.3
-mock==1.0.1
-
-nltk==3.0.2        <-------requires 'punkt' NLTK  libary 
+nltk       <-------requires 'punkt' NLTK  libary 
 (open interpreter ) 
 
 import nltk
+
 nltk.download('punkt')
+
 quit()
 
 
-
-nose==1.3.4
-numpy==1.9.2
-pandas==0.16.0
-pydot==1.0.2
-pyparsing==2.0.3
-python-dateutil==2.4.1
-pytz==2015.2
-scikit-learn==0.15.2
-scipy==0.15.1
-six==1.9.0
-stylometry==0.1.0
