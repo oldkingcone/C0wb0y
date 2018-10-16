@@ -12,3 +12,5 @@ scikit-learn==0.15.2
 scipy==0.15.1
 six==1.9.0 
 stylometry==0.1.0
+twarc
+twython
