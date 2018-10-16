@@ -15,6 +15,11 @@ this can determine where in the country a user likely is.
 
 ---
 
+#### gender-render
+a model derived from DARPA's TIMIT corpus using the corpus's male and female data to determine gendership of the user being analyzed.
+
+---
+
 
 #### NLPtimelinez & NLPtweetz:
 
@@ -39,7 +44,7 @@ change all the models over to the same api
 ---
 
 #### neural net :
-I would like to build a neural net to relate all of the analytics into a profile of said user
+I would like to build a neural net to relate all of the analytics into a profile of said user.
 
 ---
 
